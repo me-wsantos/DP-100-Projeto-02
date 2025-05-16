@@ -26,7 +26,7 @@ O objetivo deste projeto é permitir que você:
 
 A primeira etapa envolve a criação de um ambiente centralizado para o projeto. Este ambiente, muitas vezes chamado de "Workspace", serve como um hub para todos os artefatos e recursos de machine learning. Ele organiza datasets, experimentos, modelos treinados, pipelines de computação e endpoints de implantação, facilitando a colaboração e o gerenciamento do ciclo de vida do ML.
 
-![project](https://github.com/me-wsantos/DP-100-Projeto-01/blob/main/prints/01_criar_ai_hub.png?raw=true)
+![project](https://github.com/me-wsantos/DP-100-Projeto-02/blob/main/prints/01_criar_ai_hub.png?raw=true)
 
 ---
 
@@ -34,7 +34,7 @@ A primeira etapa envolve a criação de um ambiente centralizado para o projeto.
 
 O "Foundry" é o ambiente onde os dados e os modelos serão integrados e gerenciados. Nesta etapa, você configura o espaço para armazenar os arquivos PDF e prepara o sistema para processar e indexar as informações. O Foundry também permite o rastreamento e versionamento dos dados.
 
-![foundry](https://github.com/me-wsantos/DP-100-Projeto-01/blob/main/prints/02_criar_projeto_ai_foundry.png?raw=true)
+![foundry](https://github.com/me-wsantos/DP-100-Projeto-02/blob/main/prints/02_criar_projeto_ai_foundry.png?raw=true)
 
 ---
 
@@ -42,7 +42,7 @@ O "Foundry" é o ambiente onde os dados e os modelos serão integrados e gerenci
 
 Nesta etapa, você seleciona um modelo de linguagem (Large Language Model - LLM) adequado para interpretar os textos dos PDFs e gerar respostas contextuais. Modelos como o GPT-4 ou similares podem ser utilizados para essa tarefa. A escolha do modelo deve considerar o desempenho e a capacidade de lidar com grandes volumes de texto.
 
-![models](https://github.com/me-wsantos/DP-100-Projeto-01/blob/main/prints/03_select_model.png?raw=true)
+![models](https://github.com/me-wsantos/DP-100-Projeto-02/blob/main/prints/03_select_model.png?raw=true)
 
 ---
 
@@ -50,7 +50,7 @@ Nesta etapa, você seleciona um modelo de linguagem (Large Language Model - LLM)
 
 Os arquivos PDF contendo os artigos científicos são carregados no sistema. Durante o upload, os documentos são processados, e suas informações são extraídas e indexadas em um sistema de busca vetorial. Isso permite consultas rápidas e precisas.
 
-![upload](https://github.com/me-wsantos/DP-100-Projeto-01/blob/main/prints/04_add_file.png?raw=true)
+![upload](https://github.com/me-wsantos/DP-100-Projeto-02/blob/main/prints/04_add_file.png?raw=true)
 
 ---
 
@@ -58,7 +58,7 @@ Os arquivos PDF contendo os artigos científicos são carregados no sistema. Dur
 
 Por fim, o sistema oferece um chat interativo onde você pode realizar perguntas baseadas no conteúdo dos PDFs carregados. O sistema utiliza inteligência artificial para interpretar as perguntas e gerar respostas fundamentadas, facilitando a revisão e correlação de informações entre diferentes textos.
 
-![chat](https://github.com/me-wsantos/DP-100-Projeto-01/blob/main/prints/05_consulta_playground.png?raw=true)
+![chat](https://github.com/me-wsantos/DP-100-Projeto-02/blob/main/prints/05_consulta_playground.png?raw=true)
 
 ---
 
